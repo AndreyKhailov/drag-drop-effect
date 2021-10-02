@@ -62,3 +62,21 @@ body {
 .done {
   background: linear-gradient(90deg, #84fab0 0%, #8fd3f4 100%);
 }
+
+.hold {
+  background: #36fd7f;
+  border: none;
+}
+
+.hide {
+  display: none;
+}
+
+.hovered {
+  width: 150px;
+  height: 66px;
+  border: none;
+  box-shadow: 4px 4px 9px rgba(198, 198, 198, 0.1);
+  border-radius: 20px;
+  background: #eee;
+}
